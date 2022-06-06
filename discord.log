@@ -1,0 +1,286 @@
+2022-06-06 00:48:09,824:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 00:48:09,826:INFO:discord.client: logging in using static token
+2022-06-06 00:48:10,133:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 00:48:10,442:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-glc7",{"micros":266967,"calls":["discord-sessions-blue-prd-2-119",{"micros":265641,"calls":["start_session",{"micros":249614,"calls":["discord-api-bb88cc9b5-hsgrv",{"micros":243892,"calls":["get_user",{"micros":53152},"add_authorized_ip",{"micros":16882},"get_guilds",{"micros":43026},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: e5697ae1432e1cc8026a48581f4aaf8c).
+2022-06-06 00:48:12,475:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 00:48:18,588:INFO:discord: FUBR > Lord Ryn#4970 > contestants
+2022-06-06 00:56:42,592:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 00:56:42,594:INFO:discord.client: logging in using static token
+2022-06-06 00:56:42,843:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 00:56:42,944:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-6d17",{"micros":63066,"calls":["discord-sessions-blue-prd-2-168",{"micros":61983,"calls":["start_session",{"micros":46681,"calls":["discord-api-bb88cc9b5-x8dv9",{"micros":41333,"calls":["get_user",{"micros":8703},"add_authorized_ip",{"micros":1796},"get_guilds",{"micros":5324},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":6169,"calls":[]}]}]}] (Session ID: b5fe61fdc3dadd2382a09ad06593e9bf).
+2022-06-06 00:56:44,993:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 01:05:47,260:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 01:05:47,261:INFO:discord.client: logging in using static token
+2022-06-06 01:05:47,488:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 01:05:47,608:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-d8qq",{"micros":63513,"calls":["discord-sessions-blue-prd-2-11",{"micros":62398,"calls":["start_session",{"micros":36392,"calls":["discord-api-bb88cc9b5-mfnsr",{"micros":31787,"calls":["get_user",{"micros":7081},"add_authorized_ip",{"micros":1982},"get_guilds",{"micros":4135},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":16535,"calls":[]}]}]}] (Session ID: fd465e0d977c3f8490f99128825df131).
+2022-06-06 01:05:49,622:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 01:06:22,486:INFO:discord.client: Cleaning up tasks.
+2022-06-06 01:06:23,847:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 01:06:23,848:INFO:discord.client: logging in using static token
+2022-06-06 01:06:24,123:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 01:06:24,299:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-g4fl",{"micros":117416,"calls":["discord-sessions-blue-prd-2-13",{"micros":116493,"calls":["start_session",{"micros":110897,"calls":["discord-api-bb88cc9b5-nmqcr",{"micros":106732,"calls":["get_user",{"micros":48744},"add_authorized_ip",{"micros":8901},"get_guilds",{"micros":6981},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":3842,"calls":[]}]}]}] (Session ID: 2aa6cb7c37c16358e7f2844efab3979c).
+2022-06-06 01:06:26,314:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 01:07:06,544:INFO:discord: message: test by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 01:24:02,557:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 01:24:02,558:INFO:discord.client: logging in using static token
+2022-06-06 01:24:02,867:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 01:24:03,017:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-bhbs",{"micros":111140,"calls":["discord-sessions-blue-prd-2-67",{"micros":110024,"calls":["start_session",{"micros":36067,"calls":["discord-api-bb88cc9b5-zhc7x",{"micros":31920,"calls":["get_user",{"micros":6968},"add_authorized_ip",{"micros":1527},"get_guilds",{"micros":3848},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: f2b8ea746552a0966242e59578532c05).
+2022-06-06 01:24:05,032:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 01:24:26,893:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 01:25:53,804:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 01:25:53,805:INFO:discord.client: logging in using static token
+2022-06-06 01:25:54,055:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 01:25:54,190:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-whjq",{"micros":93649,"calls":["discord-sessions-blue-prd-2-41",{"micros":92592,"calls":["start_session",{"micros":59776,"calls":["discord-api-bb88cc9b5-smrql",{"micros":53867,"calls":["get_user",{"micros":14551},"add_authorized_ip",{"micros":3811},"get_guilds",{"micros":8017},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":14207,"calls":[]}]}]}] (Session ID: 3762bdd6c45bfc08c4a3d3de38747a41).
+2022-06-06 01:25:56,206:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 01:26:06,354:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 01:26:54,509:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 01:26:54,510:INFO:discord.client: logging in using static token
+2022-06-06 01:26:54,766:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 01:26:54,967:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-pt3v",{"micros":162627,"calls":["discord-sessions-blue-prd-2-53",{"micros":161301,"calls":["start_session",{"micros":125323,"calls":["discord-api-bb88cc9b5-57dfx",{"micros":118631,"calls":["get_user",{"micros":15992},"add_authorized_ip",{"micros":4872},"get_guilds",{"micros":25100},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":2,"calls":[]}]}]}] (Session ID: 124a434ae068114fa190bd146fb23068).
+2022-06-06 01:26:56,985:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 01:27:23,241:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 01:28:40,585:INFO:discord.gateway: Websocket closed with 1006, attempting a reconnect.
+2022-06-06 01:28:40,585:INFO:discord.client: Got a request to RESUME the websocket.
+2022-06-06 01:28:40,740:INFO:discord.gateway: Shard ID None has sent the RESUME payload.
+2022-06-06 01:28:40,780:INFO:discord.gateway: Shard ID None has successfully RESUMED session 124a434ae068114fa190bd146fb23068 under trace ["gateway-prd-main-8k6c",{"micros":882,"calls":["discord-sessions-blue-prd-2-53",{"micros":25}]}].
+2022-06-06 01:28:43,742:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 01:28:43,743:INFO:discord.client: logging in using static token
+2022-06-06 01:28:43,976:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 01:28:44,116:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-wft8",{"micros":102635,"calls":["discord-sessions-blue-prd-2-146",{"micros":101400,"calls":["start_session",{"micros":66431,"calls":["discord-api-bb88cc9b5-ll68d",{"micros":61811,"calls":["get_user",{"micros":29203},"add_authorized_ip",{"micros":1445},"get_guilds",{"micros":10088},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 9d3738b1ca7eca8a7fde0c9e6eb209fa).
+2022-06-06 01:28:46,132:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 01:28:51,713:INFO:discord: Misfit Marauders > Lord Ryn#4970 > raffle
+2022-06-06 01:29:14,939:INFO:discord: Misfit Marauders > Lord Ryn#4970 > clear
+2022-06-06 01:29:15,093:INFO:discord: Lord Ryn#4970>clear>7>🤖bot-testing
+2022-06-06 01:29:15,106:INFO:discord: message: !clear 7 by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 01:29:44,443:INFO:discord: Misfit Marauders > Lord Ryn#4970 > raffle
+2022-06-06 01:30:12,616:INFO:discord: message: !raffle by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 01:34:13,985:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 01:34:13,986:INFO:discord.client: logging in using static token
+2022-06-06 01:34:14,271:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 01:34:14,398:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-n5dl",{"micros":86726,"calls":["discord-sessions-blue-prd-2-119",{"micros":85576,"calls":["start_session",{"micros":64299,"calls":["discord-api-bb88cc9b5-bhqn6",{"micros":60169,"calls":["get_user",{"micros":10934},"add_authorized_ip",{"micros":4121},"get_guilds",{"micros":9696},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 7275eb67fef9aa1d63e14941fc6e22c2).
+2022-06-06 01:34:16,426:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 01:34:58,250:INFO:discord: Misfit Marauders > Lord Ryn#4970 > raffle
+2022-06-06 01:35:05,739:INFO:discord: message: !raffle by Lord Ryn#4970 was deleted in 💬general
+2022-06-06 01:36:49,020:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 01:36:49,022:INFO:discord.client: logging in using static token
+2022-06-06 01:36:49,262:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 01:36:49,394:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-76tx",{"micros":90542,"calls":["discord-sessions-blue-prd-2-47",{"micros":89623,"calls":["start_session",{"micros":54344,"calls":["discord-api-bb88cc9b5-tgpqv",{"micros":44742,"calls":["get_user",{"micros":15233},"add_authorized_ip",{"micros":1416},"get_guilds",{"micros":6813},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":29163,"calls":[]}]}]}] (Session ID: db51115534085edd5ba53a1b70f6d5e7).
+2022-06-06 01:36:51,409:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 01:37:06,002:INFO:discord: Misfit Marauders > Lord Ryn#4970 > raffle
+2022-06-06 01:37:06,703:INFO:discord: [317156727877533699, 936869866995068998]
+2022-06-06 01:37:06,703:INFO:discord: Out of 2 contestants, <@936869866995068998> has won the raffle!
+2022-06-06 01:37:10,998:INFO:discord: message: Out of 2 contestants, <@936869866995068998> has won the raffle! by Riff Raff#7021 was deleted in 😂memes
+2022-06-06 01:37:14,340:INFO:discord: message: !raffle by Lord Ryn#4970 was deleted in 😂memes
+2022-06-06 01:37:19,536:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 01:37:27,685:INFO:discord: message: fuk by Lord Ryn#4970 was deleted in 😂memes
+2022-06-06 01:37:30,982:INFO:discord: message: [] by Riff Raff#7021 was deleted in 😂memes
+2022-06-06 01:37:33,946:INFO:discord: message: !contestants by Lord Ryn#4970 was deleted in 😂memes
+2022-06-06 01:41:05,762:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 01:41:05,763:INFO:discord.client: logging in using static token
+2022-06-06 01:41:06,026:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 01:41:06,184:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-vb8t",{"micros":98538,"calls":["discord-sessions-blue-prd-2-165",{"micros":96858,"calls":["start_session",{"micros":72864,"calls":["discord-api-bb88cc9b5-fqvmj",{"micros":68599,"calls":["get_user",{"micros":13909},"add_authorized_ip",{"micros":2218},"get_guilds",{"micros":7507},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":10528,"calls":[]}]}]}] (Session ID: 07f92273fef04e3c15d575104193fcca).
+2022-06-06 01:41:08,201:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 01:41:18,122:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 01:44:30,514:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 01:44:30,516:INFO:discord.client: logging in using static token
+2022-06-06 01:44:30,758:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 01:44:30,907:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-6bh5",{"micros":109871,"calls":["discord-sessions-blue-prd-2-51",{"micros":109047,"calls":["start_session",{"micros":58858,"calls":["discord-api-bb88cc9b5-vm84w",{"micros":52212,"calls":["get_user",{"micros":10683},"add_authorized_ip",{"micros":3407},"get_guilds",{"micros":3995},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":38025,"calls":[]}]}]}] (Session ID: bacf9e826daeb872950dd45e05c75222).
+2022-06-06 01:44:32,922:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 01:44:36,608:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 01:52:42,309:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 01:52:42,310:INFO:discord.client: logging in using static token
+2022-06-06 01:52:42,555:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 01:52:42,692:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-bkx1",{"micros":94970,"calls":["discord-sessions-blue-prd-2-167",{"micros":93908,"calls":["start_session",{"micros":69214,"calls":["discord-api-bb88cc9b5-gqj2g",{"micros":61852,"calls":["get_user",{"micros":11724},"add_authorized_ip",{"micros":4377},"get_guilds",{"micros":10678},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":20634,"calls":[]}]}]}] (Session ID: 08dcad32906f5b92722dcf542a342ff6).
+2022-06-06 01:52:44,718:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 01:52:59,537:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 01:54:21,549:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 01:54:21,551:INFO:discord.client: logging in using static token
+2022-06-06 01:54:21,784:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 01:54:21,899:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-phl4",{"micros":76674,"calls":["discord-sessions-blue-prd-2-83",{"micros":69744,"calls":["start_session",{"micros":60717,"calls":["discord-api-bb88cc9b5-9nqg7",{"micros":56803,"calls":["get_user",{"micros":9336},"add_authorized_ip",{"micros":2772},"get_guilds",{"micros":9042},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 82b667425c9a099edd78ca171ff0d2e8).
+2022-06-06 01:54:23,912:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 01:54:28,376:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 01:54:50,890:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 01:54:50,892:INFO:discord.client: logging in using static token
+2022-06-06 01:54:51,156:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 01:54:51,261:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-b8mz",{"micros":64644,"calls":["discord-sessions-blue-prd-2-157",{"micros":61577,"calls":["start_session",{"micros":55537,"calls":["discord-api-bb88cc9b5-pj9wb",{"micros":45451,"calls":["get_user",{"micros":10811},"add_authorized_ip",{"micros":1410},"get_guilds",{"micros":6199},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":2499,"calls":[]}]}]}] (Session ID: 057eca8569959f5176f49354eb9d01bf).
+2022-06-06 01:54:53,275:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 01:55:05,414:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 01:55:27,508:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 01:55:27,510:INFO:discord.client: logging in using static token
+2022-06-06 01:55:27,832:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 01:55:27,925:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-gcct",{"micros":54457,"calls":["discord-sessions-blue-prd-2-21",{"micros":53352,"calls":["start_session",{"micros":45108,"calls":["discord-api-bb88cc9b5-fffl9",{"micros":40370,"calls":["get_user",{"micros":7749},"add_authorized_ip",{"micros":2565},"get_guilds",{"micros":8437},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 1cee0b42fa1ad3ad5bed609929841270).
+2022-06-06 01:55:29,940:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 01:55:35,033:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 01:56:02,193:INFO:discord.client: Cleaning up tasks.
+2022-06-06 01:56:03,183:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 01:56:03,184:INFO:discord.client: logging in using static token
+2022-06-06 01:56:03,447:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 01:56:03,609:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-84c4",{"micros":123324,"calls":["discord-sessions-blue-prd-2-143",{"micros":122366,"calls":["start_session",{"micros":65225,"calls":["discord-api-bb88cc9b5-99fdg",{"micros":60775,"calls":["get_user",{"micros":9298},"add_authorized_ip",{"micros":3326},"get_guilds",{"micros":7334},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 7958e59a1731d0db1ed8b99724a36d66).
+2022-06-06 01:56:05,626:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 01:56:10,196:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 02:00:50,785:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:00:50,786:INFO:discord.client: logging in using static token
+2022-06-06 02:00:51,063:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:00:51,253:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-nsqn",{"micros":149254,"calls":["discord-sessions-blue-prd-2-63",{"micros":148246,"calls":["start_session",{"micros":112107,"calls":["discord-api-bb88cc9b5-dv7jt",{"micros":104628,"calls":["get_user",{"micros":12522},"add_authorized_ip",{"micros":3845},"get_guilds",{"micros":35025},"coros_wait",{"micros":3}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":22290,"calls":[]}]}]}] (Session ID: 9f4e69236ba7d98b8dd521555260727f).
+2022-06-06 02:00:53,271:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:01:09,528:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 02:02:24,645:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:02:24,647:INFO:discord.client: logging in using static token
+2022-06-06 02:02:24,943:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:02:25,062:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-s0ct",{"micros":81710,"calls":["discord-sessions-blue-prd-2-53",{"micros":80615,"calls":["start_session",{"micros":49316,"calls":["discord-api-bb88cc9b5-9bcbl",{"micros":43815,"calls":["get_user",{"micros":8600},"add_authorized_ip",{"micros":3030},"get_guilds",{"micros":8916},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":20083,"calls":[]}]}]}] (Session ID: dbbfac9b95a96aa583166f7502e54eab).
+2022-06-06 02:02:27,079:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:02:36,866:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 02:03:52,652:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:03:52,654:INFO:discord.client: logging in using static token
+2022-06-06 02:03:52,911:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:03:53,046:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-lpkr",{"micros":94203,"calls":["discord-sessions-blue-prd-2-174",{"micros":93012,"calls":["start_session",{"micros":55437,"calls":["discord-api-bb88cc9b5-fqvmj",{"micros":48737,"calls":["get_user",{"micros":18211},"add_authorized_ip",{"micros":1358},"get_guilds",{"micros":3153},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":18420,"calls":[]}]}]}] (Session ID: a4d9f7e4bbb04aa985b961cd9b8dec27).
+2022-06-06 02:03:55,062:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:03:58,629:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 02:08:16,635:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:08:16,636:INFO:discord.client: logging in using static token
+2022-06-06 02:08:16,889:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:08:17,021:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-j90b",{"micros":90524,"calls":["discord-sessions-blue-prd-2-52",{"micros":89427,"calls":["start_session",{"micros":56351,"calls":["discord-api-bb88cc9b5-4fn96",{"micros":51118,"calls":["get_user",{"micros":12931},"add_authorized_ip",{"micros":2358},"get_guilds",{"micros":7028},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":23452,"calls":[]}]}]}] (Session ID: 38686409c16326e895509c90220c722b).
+2022-06-06 02:08:19,038:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:08:22,119:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 02:08:54,953:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:08:54,954:INFO:discord.client: logging in using static token
+2022-06-06 02:08:55,218:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:08:55,382:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-gcct",{"micros":125042,"calls":["discord-sessions-blue-prd-2-19",{"micros":123982,"calls":["start_session",{"micros":83031,"calls":["discord-api-bb88cc9b5-p2dmb",{"micros":77868,"calls":["get_user",{"micros":12956},"add_authorized_ip",{"micros":8591},"get_guilds",{"micros":9903},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":6339,"calls":[]}]}]}] (Session ID: 5e23d3c99b808e16fe704a79b8d260a5).
+2022-06-06 02:08:57,401:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:09:14,605:INFO:discord: Misfit Marauders > Lord Ryn#4970 > clear
+2022-06-06 02:09:14,791:INFO:discord: Lord Ryn#4970>clear>11>🤖bot-testing
+2022-06-06 02:09:14,795:INFO:discord: message: !clear 11 by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 02:09:32,859:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 02:11:11,869:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:11:11,871:INFO:discord.client: logging in using static token
+2022-06-06 02:11:12,113:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:11:12,277:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-gw2q",{"micros":117683,"calls":["discord-sessions-blue-prd-2-14",{"micros":116542,"calls":["start_session",{"micros":51388,"calls":["discord-api-bb88cc9b5-5tgwt",{"micros":43118,"calls":["get_user",{"micros":12340},"add_authorized_ip",{"micros":1551},"get_guilds",{"micros":3817},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: fa10a9f099aa099223404eecbb8c2920).
+2022-06-06 02:11:14,294:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:11:20,655:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 02:12:42,671:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:12:42,672:INFO:discord.client: logging in using static token
+2022-06-06 02:12:42,943:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:12:43,063:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-mc4h",{"micros":80634,"calls":["discord-sessions-blue-prd-2-122",{"micros":79572,"calls":["start_session",{"micros":46203,"calls":["discord-api-bb88cc9b5-hv5fz",{"micros":40554,"calls":["get_user",{"micros":7052},"add_authorized_ip",{"micros":2742},"get_guilds",{"micros":4053},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":18229,"calls":[]}]}]}] (Session ID: a2dfbadc89e2dbb5a118439b6cd6b5a8).
+2022-06-06 02:12:45,076:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:12:50,439:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 02:13:21,197:INFO:discord: Misfit Marauders > Lord Ryn#4970 > clear
+2022-06-06 02:13:21,365:INFO:discord: Lord Ryn#4970>clear>12>🤖bot-testing
+2022-06-06 02:13:21,372:INFO:discord: message: !clear 12 by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 02:19:06,360:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:19:06,362:INFO:discord.client: logging in using static token
+2022-06-06 02:19:06,616:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:19:06,719:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-ts95",{"micros":59219,"calls":["discord-sessions-blue-prd-2-139",{"micros":58207,"calls":["start_session",{"micros":41135,"calls":["discord-api-bb88cc9b5-2ktmj",{"micros":37669,"calls":["get_user",{"micros":6992},"add_authorized_ip",{"micros":2462},"get_guilds",{"micros":4231},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":9386,"calls":[]}]}]}] (Session ID: 3f617507d8528cfcbec385ecfd1213c9).
+2022-06-06 02:19:08,733:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:19:13,917:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 02:32:51,252:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:32:51,253:INFO:discord.client: logging in using static token
+2022-06-06 02:32:51,508:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:32:51,694:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-rng0",{"micros":147908,"calls":["discord-sessions-blue-prd-2-116",{"micros":146545,"calls":["start_session",{"micros":106361,"calls":["discord-api-bb88cc9b5-b5xps",{"micros":100435,"calls":["get_user",{"micros":16213},"add_authorized_ip",{"micros":8039},"get_guilds",{"micros":9145},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: ffe8667fe650e0e1d079e9e20e40d670).
+2022-06-06 02:32:53,719:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:34:05,910:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:34:05,912:INFO:discord.client: logging in using static token
+2022-06-06 02:34:06,162:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:34:06,262:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-v81p",{"micros":58979,"calls":["discord-sessions-blue-prd-2-105",{"micros":58042,"calls":["start_session",{"micros":32517,"calls":["discord-api-bb88cc9b5-x4phc",{"micros":27689,"calls":["get_user",{"micros":6044},"add_authorized_ip",{"micros":1323},"get_guilds",{"micros":2646},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: 14794c1430ae4b8f0ad8ed7e730b1d7c).
+2022-06-06 02:34:08,286:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:34:16,810:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 02:34:16,943:INFO:discord: message: !echo test by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 02:34:46,102:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:34:46,104:INFO:discord.client: logging in using static token
+2022-06-06 02:34:46,367:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:34:46,490:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-7wb8",{"micros":79803,"calls":["discord-sessions-blue-prd-2-113",{"micros":78675,"calls":["start_session",{"micros":44006,"calls":["discord-api-bb88cc9b5-d8kqb",{"micros":39884,"calls":["get_user",{"micros":8410},"add_authorized_ip",{"micros":2842},"get_guilds",{"micros":4932},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":3,"calls":[]},"presence_connect",{"micros":22943,"calls":[]}]}]}] (Session ID: 1328125dec1bffcf0878b6bee48703f2).
+2022-06-06 02:34:48,509:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:34:54,384:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 02:35:00,445:INFO:discord: message: !echo test by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 02:35:46,137:INFO:discord.client: Cleaning up tasks.
+2022-06-06 02:35:47,283:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:35:47,285:INFO:discord.client: logging in using static token
+2022-06-06 02:35:47,528:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:35:47,697:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-zznc",{"micros":124514,"calls":["discord-sessions-blue-prd-2-39",{"micros":122890,"calls":["start_session",{"micros":93213,"calls":["discord-api-bb88cc9b5-zvd46",{"micros":85173,"calls":["get_user",{"micros":18020},"add_authorized_ip",{"micros":6226},"get_guilds",{"micros":13304},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: bbc2168d7544a5039da99f935b3f0ccc).
+2022-06-06 02:35:49,728:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:35:50,472:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 02:35:55,645:INFO:discord: message: !echo "test" by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 02:36:02,658:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:36:02,659:INFO:discord.client: logging in using static token
+2022-06-06 02:36:02,904:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:36:03,059:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-nfbx",{"micros":115412,"calls":["discord-sessions-blue-prd-2-79",{"micros":114472,"calls":["start_session",{"micros":85809,"calls":["discord-api-bb88cc9b5-9rrk9",{"micros":75779,"calls":["get_user",{"micros":11708},"add_authorized_ip",{"micros":3053},"get_guilds",{"micros":15809},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":23912,"calls":[]}]}]}] (Session ID: 5d55bb5066cb9cb938ce24a42110b04f).
+2022-06-06 02:36:05,081:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:36:08,034:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 02:36:12,320:INFO:discord: message: !echo test by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 02:37:34,628:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 02:37:41,066:INFO:discord: message: !echo test by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 02:38:41,182:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:38:41,183:INFO:discord.client: logging in using static token
+2022-06-06 02:38:41,490:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:38:41,683:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-fcmh",{"micros":152892,"calls":["discord-sessions-blue-prd-2-120",{"micros":151857,"calls":["start_session",{"micros":126359,"calls":["discord-api-bb88cc9b5-qvhlp",{"micros":113150,"calls":["get_user",{"micros":24006},"add_authorized_ip",{"micros":4730},"get_guilds",{"micros":21462},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":1,"calls":[]}]}]}] (Session ID: d7297ef227f674a3ebde4a1e05925af6).
+2022-06-06 02:38:43,698:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:38:49,667:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 02:39:18,067:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 02:39:34,811:INFO:discord: Misfit Marauders > Lord Ryn#4970 > clear
+2022-06-06 02:39:35,012:INFO:discord: Lord Ryn#4970>clear>4>🤖bot-testing
+2022-06-06 02:39:35,014:INFO:discord: message: !clear 4 by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 02:40:23,123:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 02:40:55,196:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:40:55,198:INFO:discord.client: logging in using static token
+2022-06-06 02:40:55,453:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:40:55,649:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-cbv1",{"micros":152829,"calls":["discord-sessions-blue-prd-2-85",{"micros":151883,"calls":["start_session",{"micros":129776,"calls":["discord-api-bb88cc9b5-xfhwn",{"micros":125671,"calls":["get_user",{"micros":15049},"add_authorized_ip",{"micros":4410},"get_guilds",{"micros":31399},"coros_wait",{"micros":9}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":21296,"calls":[]}]}]}] (Session ID: 77669055175d3bac367d14e52e73871a).
+2022-06-06 02:40:57,666:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:41:01,244:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 02:41:01,762:INFO:discord: message: !echo test by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 02:41:24,402:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:41:24,404:INFO:discord.client: logging in using static token
+2022-06-06 02:41:24,692:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:41:24,815:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-x0k0",{"micros":73579,"calls":["discord-sessions-blue-prd-2-175",{"micros":70877,"calls":["start_session",{"micros":46158,"calls":["discord-api-bb88cc9b5-gmljk",{"micros":41428,"calls":["get_user",{"micros":8026},"add_authorized_ip",{"micros":2861},"get_guilds",{"micros":6825},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":5959,"calls":[]}]}]}] (Session ID: f0ac208b4f531408a79974f85e1762a1).
+2022-06-06 02:41:26,831:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:41:37,521:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 02:41:37,637:INFO:discord: message: !echo test by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 02:43:39,364:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:43:39,365:INFO:discord.client: logging in using static token
+2022-06-06 02:43:39,605:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:43:39,730:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-d4tj",{"micros":88200,"calls":["discord-sessions-blue-prd-2-168",{"micros":87264,"calls":["start_session",{"micros":35636,"calls":["discord-api-bb88cc9b5-sk7xt",{"micros":32234,"calls":["get_user",{"micros":7823},"add_authorized_ip",{"micros":1337},"get_guilds",{"micros":3489},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":24861,"calls":[]}]}]}] (Session ID: c764229d9d8e3f99f7da0c3d61a4e751).
+2022-06-06 02:43:41,747:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:43:45,909:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 02:43:46,039:INFO:discord: message: !echo test by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 02:44:07,018:INFO:discord: Misfit Marauders > Lord Ryn#4970 > contestants
+2022-06-06 02:44:37,324:INFO:discord: Misfit Marauders > Lord Ryn#4970 > clear
+2022-06-06 02:44:37,503:INFO:discord: Lord Ryn#4970>clear>10>🤖bot-testing
+2022-06-06 02:44:37,505:INFO:discord: message: !clear 10 by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 02:44:49,673:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 02:44:49,676:INFO:discord.client: logging in using static token
+2022-06-06 02:44:49,926:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 02:44:50,036:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-hfls",{"micros":64619,"calls":["discord-sessions-blue-prd-2-97",{"micros":55302,"calls":["start_session",{"micros":43264,"calls":["discord-api-bb88cc9b5-5nrtd",{"micros":39751,"calls":["get_user",{"micros":6925},"add_authorized_ip",{"micros":2018},"get_guilds",{"micros":4226},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":8444,"calls":[]}]}]}] (Session ID: c76a20f83b9342194b69f9f942223194).
+2022-06-06 02:44:52,057:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 02:45:01,901:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 02:45:02,246:INFO:discord: message: !echo test by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 02:45:49,107:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 02:45:49,423:INFO:discord: message: !echo hi guys by Lord Ryn#4970 was deleted in 🧰research-n-development
+2022-06-06 02:46:05,941:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 02:46:06,257:INFO:discord: message: !echo 'hi guys' by Lord Ryn#4970 was deleted in 🧰research-n-development
+2022-06-06 02:46:12,487:INFO:discord: message: 'hi by Riff Raff#7021 was deleted in 🧰research-n-development
+2022-06-06 02:48:10,472:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 02:48:10,866:INFO:discord: message: !echo "spam and eggs" by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 03:07:47,798:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 03:07:48,196:INFO:discord: message: !echo "screw seasonal elf" by Lord Ryn#4970 was deleted in 📷screenshots
+2022-06-06 03:12:39,289:INFO:discord: FUBR > Lord Ryn#4970 > echo
+2022-06-06 03:12:39,651:INFO:discord: message: !echo "I'm sorry <@377249879312957451>, there is no arbitration here." by Lord Ryn#4970 was deleted in 🎫weekly-raffle
+2022-06-06 03:14:37,860:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 03:14:38,315:INFO:discord: message: !echo " <@936869866995068998> is in timeout now" by Lord Ryn#4970 was deleted in 📷screenshots
+2022-06-06 03:16:33,913:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2022-06-06 03:16:33,916:INFO:discord.client: logging in using static token
+2022-06-06 03:16:34,156:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2022-06-06 03:16:34,289:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-glc7",{"micros":87257,"calls":["discord-sessions-blue-prd-2-22",{"micros":79886,"calls":["start_session",{"micros":48010,"calls":["discord-api-bb88cc9b5-2dghs",{"micros":34523,"calls":["get_user",{"micros":8760},"add_authorized_ip",{"micros":1573},"get_guilds",{"micros":3540},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":18074,"calls":[]}]}]}] (Session ID: bdc80d5e57b8043280d046cf13f0d6da).
+2022-06-06 03:16:36,314:INFO:discord: Riff Raff#7021 has connected to Discord!
+2022-06-06 03:16:54,875:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 03:16:55,323:INFO:discord: message: !echo testicles by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 03:19:59,890:INFO:discord: Misfit Marauders > Dan0HH#4881 > echo
+2022-06-06 03:20:17,740:INFO:discord: Misfit Marauders > Dan0HH#4881 > echo
+2022-06-06 03:20:18,023:INFO:discord: message: !echo "words" by Dan0HH#4881 was deleted in 🤖bot-testing
+2022-06-06 03:23:05,943:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 03:23:06,213:INFO:discord: message: !echo "https://replit.com/@lordryn/Riff-Raff-21#discord.log" by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 04:01:43,664:INFO:discord: Misfit Marauders > Lord Ryn#4970 > echo
+2022-06-06 04:01:44,001:INFO:discord: message: !echo test by Lord Ryn#4970 was deleted in 🤖bot-testing
+2022-06-06 04:42:31,626:INFO:discord.client: Got a request to RESUME the websocket.
+2022-06-06 04:42:31,779:INFO:discord.gateway: Shard ID None has sent the RESUME payload.
+2022-06-06 04:42:31,816:INFO:discord.gateway: Shard ID None has successfully RESUMED session bdc80d5e57b8043280d046cf13f0d6da under trace ["gateway-prd-main-cnxl",{"micros":438,"calls":["discord-sessions-blue-prd-2-22",{"micros":19}]}].
+2022-06-06 07:15:49,745:INFO:discord.client: Got a request to RESUME the websocket.
+2022-06-06 07:15:49,902:INFO:discord.gateway: Shard ID None has sent the RESUME payload.
+2022-06-06 07:15:49,944:INFO:discord.gateway: Shard ID None has successfully RESUMED session bdc80d5e57b8043280d046cf13f0d6da under trace ["gateway-prd-main-d3nv",{"micros":765,"calls":["discord-sessions-blue-prd-2-22",{"micros":21}]}].

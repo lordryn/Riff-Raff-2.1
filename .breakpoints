@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "raffle.sqlite": [
+      {
+        "id": "6ca889ef-19e8-4719-8d77-c2037cf166ac",
+        "line": 8,
+        "version": 1,
+        "index": 12289
+      }
+    ]
+  }
 }
